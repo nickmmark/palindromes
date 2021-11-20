@@ -1,6 +1,9 @@
 # palindromes
 
-my goal was to find an algorithmic way of finding/constructing [SATOR squares](https://en.wikipedia.org/wiki/Sator_Square)
+Sator Squares are cool elegant word puzzles. Making them is a fun (& time consuming) challenge.
+My goal with this project was to find an algorithmic way of finding/constructing [SATOR squares](https://en.wikipedia.org/wiki/Sator_Square)
+[![name](link to image on GH)](link to your URL)
+[![An ancient Sator Square](link to image on GH)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sator_Square_at_Opp%C3%A8de.jpg/440px-Sator_Square_at_Opp%C3%A8de.jpg)
 
 in order to do that, we need to do a series of operations
 1. search the dictionary to find *palindromes* and *heteropalindromes* of the requisite length
