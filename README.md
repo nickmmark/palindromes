@@ -15,6 +15,7 @@ in order to do that, we need to do a series of operations
 |   |   | T |   |   |
 
 3. place *heropalidromes* that have overlapping letters into adjacent squares
+
 |   |   |   |   |   |
 |:-:|:-:|:-:|:-:|:-:|
 | R | O | T | A | S |
@@ -24,6 +25,7 @@ in order to do that, we need to do a series of operations
 | S |   | T |   | R |
 
 4. andrepeat until the square is complete
+
 |   |   |   |   |   |
 |:-:|:-:|:-:|:-:|:-:|
 | R | O | T | A | S |
