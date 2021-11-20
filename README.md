@@ -10,7 +10,7 @@ in order to do that, we need to do a series of operations
 |:-:|:-:|:-:|:-:|:-:|
 |   |   | T |   |   |
 |   |   | E |   |   |
-| T | E | N | E | T |
+| **T** | **E** | **N** | **E** | **T** |
 |   |   | E |   |   |
 |   |   | T |   |   |
 
@@ -18,13 +18,13 @@ in order to do that, we need to do a series of operations
 
 |   |   |   |   |   |
 |:-:|:-:|:-:|:-:|:-:|
-| R | O | T | A | S |
-|   |   | E |   | A |
+| **R** | **O** | T | **A** | **S** |
+|   |   | E |   | **A** |
 | T | E | N | E | T |
-|   |   | E |   | O |
-| S |   | T |   | R |
+|   |   | E |   | **O** |
+|   |   | T |   | **R** |
 
-4. andrepeat until the square is complete
+4. repeat until the square is complete
 
 |   |   |   |   |   |
 |:-:|:-:|:-:|:-:|:-:|
@@ -37,7 +37,7 @@ in order to do that, we need to do a series of operations
 |   |   |   |   |   |
 |:-:|:-:|:-:|:-:|:-:|
 | R | O | T | A | S |
-| O | P | E | R | A |
+| O | **P** | E | **R** | A |
 | T | E | N | E | T |
-| A | R | E | P | O |
+| A | **R** | E | **P** | O |
 | S | A | T | O | R |
