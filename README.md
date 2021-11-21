@@ -6,8 +6,9 @@ My goal with this project was to find an algorithmic way of finding/constructing
 [![An ancient Sator Square](https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Sator_Square_at_Opp%C3%A8de.jpg/440px-Sator_Square_at_Opp%C3%A8de.jpg)
 
 in order to do that, we need to do a series of operations
-1. search the dictionary to find *palindromes* and *heteropalindromes* of the requisite length
-2. choose a *palidrome* in the center
+1. select the size of the square (n)
+1. [search the dictionary](https://www.dcode.fr/semordnilap-generator) to find *palindromes* and *heteropalindromes* of length = n; this is the complete set of words that can be used to construct the Sator square.
+2. choose from the list a *palidrome* to place in the center
 
 |   |   |   |   |   |
 |:-:|:-:|:-:|:-:|:-:|
