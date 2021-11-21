@@ -7,7 +7,7 @@ My goal with this project was to find an algorithmic way of finding/constructing
 
 in order to do that, we need to do a series of operations
 1. search the dictionary to find *palindromes* and *heteropalindromes* of the requisite length
-2. place a *palidrome* in the center
+2. choose a *palidrome* in the center
 
 |   |   |   |   |   |
 |:-:|:-:|:-:|:-:|:-:|
@@ -27,8 +27,6 @@ in order to do that, we need to do a series of operations
 |   |   | E |   | **O** |
 |   |   | T |   | **R** |
 
-4. repeat until the square is complete
-
 |   |   |   |   |   |
 |:-:|:-:|:-:|:-:|:-:|
 | R | O | T | A | S |
@@ -36,6 +34,8 @@ in order to do that, we need to do a series of operations
 | T | E | N | E | T |
 | A |   | E |   | O |
 | S | A | T | O | R |
+
+4. repeat until the square is complete
 
 |   |   |   |   |   |
 |:-:|:-:|:-:|:-:|:-:|
